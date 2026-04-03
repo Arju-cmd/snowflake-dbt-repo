@@ -1,0 +1,4 @@
+SELECT
+  *
+FROM
+  "DB_ECOM"."SC_ECOM"."USERS"
